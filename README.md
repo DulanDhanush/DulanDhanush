@@ -1,4 +1,4 @@
-[DulanDhanush_README_with_stats.md](https://github.com/user-attachments/files/22048519/DulanDhanush_README_with_stats.md)
+
 <img width="1584" height="396" alt="Artboard 1" src="https://github.com/user-attachments/assets/14cb1948-dc86-403f-9c09-b70ded83c0ab" />
 
 
@@ -25,20 +25,8 @@ I'm an **Aspiring Junior Software Engineer** with a passion for building scalabl
 
 ---
 
-## 📂 Projects
-### **Number Guessing Game** (Java)
-- Built a console-based game to practice input handling, loops, and control flow.  
-- [View on GitHub](https://github.com/DulanDhanush/NumberGuessingGame)
 
-### **Java WAV Audio Player**
-- Developed a fully functional audio player with playback, file handling, and user interaction.  
-- [View on GitHub](https://github.com/DulanDhanush/Local-waw-Player)
 
-*(Add more projects here, especially any C# projects.)*
-
----
-
-## 📊 GitHub Stats
 
 ![Dulan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DulanDhanush&show_icons=true&theme=blue)  
 
