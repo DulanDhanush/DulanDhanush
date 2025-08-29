@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="Artboard 1" src="https://github.com/user-attachments/assets/df139dc5-d8ad-4378-8b4d-255d3b893d3f" />
 
 # Hi, I'm Dulan Dhanush 👋
 
@@ -22,18 +23,6 @@ I'm an **Aspiring Junior Software Engineer** with a passion for building scalabl
 
 ---
 
-## 📂 Projects
-### **Number Guessing Game** (Java)
-- Built a console-based game to practice input handling, loops, and control flow.  
-- [View on GitHub](https://github.com/DulanDhanush/NumberGuessingGame)
-
-### **Java WAV Audio Player**
-- Developed a fully functional audio player with playback, file handling, and user interaction.  
-- [View on GitHub](https://github.com/DulanDhanush/Local-waw-Player)
-
-*(Add more projects here, especially any C# projects.)*
-
----
 
 ## 📊 GitHub Stats
 
