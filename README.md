@@ -14,14 +14,14 @@ I'm an **Aspiring Junior Software Engineer** with a passion for building scalabl
 - Enthusiastic about learning **modern software frameworks and tools** to deliver impactful projects.  
 
 ---
+### 🛠️ Languages & Tools
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🛠️ Technical Skills
-| Languages | Tools & Technologies | Frameworks & Platforms |
-|-----------|-------------------|---------------------|
-| C#        | Git & GitHub       | .NET, ADO.NET       |
-| Java      | SQL Server         | Windows Forms, Blazor|
-| SQL       | Visual Studio      | REST APIs           |
-| HTML/CSS  | Postman            | Agile & Scrum       |
 
 ---
 
@@ -30,6 +30,9 @@ I'm an **Aspiring Junior Software Engineer** with a passion for building scalabl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DulanDhanush&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=DulanDhanush&theme=tokyonight)
+
+
+
 
 
 
