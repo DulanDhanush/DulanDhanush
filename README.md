@@ -28,8 +28,7 @@ I'm an **Aspiring Junior Software Engineer** with a passion for building scalabl
 
 
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DulanDhanush&layout=compact&theme=blue)  
+ 
 
 
 
