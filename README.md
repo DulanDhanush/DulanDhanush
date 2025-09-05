@@ -28,7 +28,6 @@ I'm an **Aspiring Junior Software Engineer** with a passion for building scalabl
 
 
 
-![Dulan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DulanDhanush&show_icons=true&theme=blue)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DulanDhanush&layout=compact&theme=blue)  
 
