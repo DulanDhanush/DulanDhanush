@@ -11,19 +11,20 @@ I'm an **Aspiring Junior Software Engineer** with a passion for building scalabl
 ## 🔹 About Me
 - Strong foundation in **object-oriented programming, database management, and software design principles**.  
 - Experienced in building **console-based and GUI applications** using C#, Java, and SQL.  
-- Enthusiastic about learning **modern software frameworks and tools** to deliver impactful projects.  
-
----### ⚡ Languages & Tools
+- Enthusiastic about learning **modern software frameworks and tools** to deliver impactful projects.
+  
+### ⚡ Languages & Tools
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
+
 
 ---
 
