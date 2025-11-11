@@ -1,5 +1,6 @@
 
-<img width="931" height="452" alt="GridArt_20251111_231750926" src="https://github.com/user-attachments/assets/6328fb49-9bf5-452d-827a-60e5306ba473" />
+<img width="1584" height="396" alt="Artboard 1" src="https://github.com/user-attachments/assets/7320590e-8070-4bd1-9a08-01279d9158b7" />
+
 
 
 
