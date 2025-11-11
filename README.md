@@ -1,5 +1,6 @@
 
-<img width="1584" height="396" alt="Artboard 1" src="https://github.com/user-attachments/assets/14cb1948-dc86-403f-9c09-b70ded83c0ab" />
+<img width="931" height="452" alt="GridArt_20251111_231750926" src="https://github.com/user-attachments/assets/6328fb49-9bf5-452d-827a-60e5306ba473" />
+
 
 
 # Hi, I'm Dulan Dhanush 👋
