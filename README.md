@@ -48,7 +48,8 @@ I'm an **Aspiring Junior Software Engineer** with a passion for building scalabl
 ## 📫 Contact Me
 - Email: **dulandhanush0@gmail.com**  
 - LinkedIn: [linkedin.com/in/dulan-dhanush-b76a44300](https://www.linkedin.com/in/dulan-dhanush-b76a44300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- GitHub: [github.com/DulanDhanush](https://github.com/DulanDhanush)  
+- GitHub: [github.com/DulanDhanush](https://github.com/DulanDhanush)
+- My Website: https://dulandhanush.github.io/portfolio-website/
 
 ---
 
