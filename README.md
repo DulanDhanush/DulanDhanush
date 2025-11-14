@@ -55,5 +55,5 @@ I'm an **Aspiring Junior Software Engineer** with a passion for building scalabl
 
 ## ⚡ Interests
 - Software development & problem-solving  
-- Learning modern web frameworks and C# application development  
+- Learning modern web frameworks and efficent applications development  
 - Contributing to open-source projects  
