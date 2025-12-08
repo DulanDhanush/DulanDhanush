@@ -11,7 +11,6 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
 - Strong foundation in **OOP, data structures, databases, and software engineering principles**.  
 - Experience building **Java console applications, C# WinForms projects, PHP CRUD systems, and SQL database solutions**.  
 - Currently learning **modern web development (JS, PHP, React), secure coding, and problem-solving (DSA)**.  
-- Growth-focused mindset — aiming to become a **full-stack developer & junior software engineer**.  
 
 ---
 
