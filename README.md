@@ -46,7 +46,7 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
 
 ## 🌱 Currently Learning  
 - **PHP + MySQL CRUD Development**  
-- **JavaScript (DOM, ES6+) & Weather App Project**  
+- **JavaScript (DOM, ES6+)**  
 - **React fundamentals**  
 - **Figma for UI/UX**  
 - **DVWA + Web Security Basics**  
