@@ -40,6 +40,8 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/jasperreports.svg" width="45"/>
+
 </p>
 
 ---
