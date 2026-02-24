@@ -46,10 +46,10 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
 ---
 
 ## 🌱 Currently Learning  
-- **PHP + MySQL CRUD Development**  
-- **JavaScript (DOM, ES6+)**  
+- **Mongo DB**  
+- **Python**  
 - **React fundamentals**  
-- **Figma for UI/UX**  
+- **Mobile Application Development**  
 - **DVWA + Web Security Basics**  
 
 ---
@@ -64,7 +64,7 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
 
 ## ⚡ Interests  
 - Full-stack software development  
-- Cybersecurity fundamentals  
+- Cybersecurity   
 - Building practical projects  
 - Learning modern frameworks and automation tools  
 
