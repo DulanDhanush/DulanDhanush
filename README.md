@@ -46,10 +46,8 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
 
 ---
 
-## 🌱 Currently Learning  
-- **Mongo DB**  
-- **Python**  
-- **React fundamentals**  
+## 🌱 Currently Learning   
+- **Python**   
 - **Mobile Application Development**  
 - **DVWA + Web Security Basics**  
 
