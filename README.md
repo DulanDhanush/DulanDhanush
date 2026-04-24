@@ -65,5 +65,7 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
 - Full-stack software development  
 - Cybersecurity   
 - Building practical projects  
-- Learning modern frameworks and automation tools  
+- Learning modern frameworks and automation tools
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DulanDhanush&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DulanDhanush&layout=compact&theme=radical)
