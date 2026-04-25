@@ -1,6 +1,7 @@
 # Hi, I'm Dulan Dhanush 👋  
 
-<img width="1470" height="820" alt="upscalemedia-transformed (1)" src="https://github.com/user-attachments/assets/df92e4d5-1c7a-4761-93f5-2ad31b4e44c6" />
+<img width="1280" height="706" alt="photo_2026-04-25_22-27-22" src="https://github.com/user-attachments/assets/70662ba0-8560-4de6-afa0-6a19941c4cda" />
+
 
 I'm an **Aspiring Junior Software Engineer** passionate about building efficient, scalable, and user-focused software solutions.  
 I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively improving my full-stack skills through real projects and continuous learning.
