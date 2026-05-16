@@ -48,7 +48,8 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
 ---
 
 ## 🌱 Currently Learning   
-- **Python**   
+- **Machine Learning**
+- **Enterprise Application Develeopment**   
 - **Mobile Application Development**  
 - **DVWA + Web Security Basics**  
 
@@ -68,3 +69,4 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
 - Building practical projects  
 - Learning modern frameworks and automation tools
 
+![Dulan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DulanDhanush&show_icons=true&theme=default)
