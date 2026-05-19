@@ -21,9 +21,7 @@
   <a href="mailto:dulandhanush0@gmail.com">
     <img src="https://img.shields.io/badge/Email-%231E90FF.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/DulanDhanush">
-    <img src="https://img.shields.io/badge/GitHub-%231E90FF.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  
 </div>
 
 <br>
