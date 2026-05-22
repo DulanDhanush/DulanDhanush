@@ -1,6 +1,6 @@
 <div align="center">
   <h1>✨ Hi, I'm Dulan Dhanush ✨</h1>
-  <h3>Aspiring Junior Software Engineer | Full-Stack Developer in Progress</h3>
+  <h3>Aspiring Junior Software Enginer | Full-Stack Developer in Progress</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Building+scalable+solutions;Passionate+about+clean+code;Always+learning+new+tech&cursor=%7C" alt="Typing Animation with Blue Pipe Cursor" />
 
