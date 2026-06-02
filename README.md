@@ -102,7 +102,7 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
 
 > *This graph shows my open-source contributions over time – every dot is a step forward!*
 
----
+
 
 <div align="center">
   <i>“Code. Create. Improve.”</i><br>
