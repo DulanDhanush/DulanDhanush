@@ -98,7 +98,7 @@ I currently work with **C#, Java, PHP, SQL, JavaScript**, and I’m actively imp
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DulanDhanush&bg_color=0D1117&color=1E90FF&line=1E90FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
----
+----
 
 > *This graph shows my open-source contributions over time – every dot is a step forward!*
 
